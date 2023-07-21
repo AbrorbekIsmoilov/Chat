@@ -68,7 +68,7 @@ private fun signIn() {
             }
         }
     }
-
+//kh
     @SuppressLint("SuspiciousIndentation")
     private fun firebaseAuthWithGoogle(idToken: String) {
         val credential = GoogleAuthProvider.getCredential(idToken, null)
