@@ -60,7 +60,7 @@ class MainActivity : AppCompatActivity() {
 //            men user1
 
             override fun onCancelled(error: DatabaseError) {
-
+// nimadur yangilandi
             }
         })
     }
