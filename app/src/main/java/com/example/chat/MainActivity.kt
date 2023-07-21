@@ -58,7 +58,51 @@ class MainActivity : AppCompatActivity() {
                 rvAdapter.notifyDataSetChanged()
             }
 //            men user1
-
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
+// man masterdan yangilanish qilyapman user1da korinish kerak
             override fun onCancelled(error: DatabaseError) {
 
             }
